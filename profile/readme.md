@@ -8,4 +8,4 @@ ERDDAP is a scientific data server that gives users a simple, consistent way to 
 
 Over the last decade, the usage of ERDDAP has exploded. What was once a primarily NOAA-driven and -used software tool is now depended upon by approximately 100 organizations in at least 16 countries. With increased adoption, ERDDAP development has also moved into the community-supported, GitHub-based, open source model that has proven successful in many other projects. As a result, this is an opportune time to implement a structure in which ERDDAP development can continue to grow and thrive.
 
-This GitHub organization is the first step in this movement for ERDDAP.
+This GitHub organization is the first step in this movement for ERDDAP. The organization contains the ERDDAP source code at https://github.com/erddap/erddap.
